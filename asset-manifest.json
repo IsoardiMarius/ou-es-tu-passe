@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ou-es-tu-passe/static/css/main.2924c4fd.css",
-    "main.js": "/ou-es-tu-passe/static/js/main.68693181.js",
+    "main.css": "/ou-es-tu-passe/static/css/main.7521fea5.css",
+    "main.js": "/ou-es-tu-passe/static/js/main.47bc717f.js",
     "static/js/453.d5e058b4.chunk.js": "/ou-es-tu-passe/static/js/453.d5e058b4.chunk.js",
     "static/media/mafia_bear-removebg-preview.png": "/ou-es-tu-passe/static/media/mafia_bear-removebg-preview.e9dc122d449dcca292ca.png",
     "index.html": "/ou-es-tu-passe/index.html",
-    "main.2924c4fd.css.map": "/ou-es-tu-passe/static/css/main.2924c4fd.css.map",
-    "main.68693181.js.map": "/ou-es-tu-passe/static/js/main.68693181.js.map",
+    "main.7521fea5.css.map": "/ou-es-tu-passe/static/css/main.7521fea5.css.map",
+    "main.47bc717f.js.map": "/ou-es-tu-passe/static/js/main.47bc717f.js.map",
     "453.d5e058b4.chunk.js.map": "/ou-es-tu-passe/static/js/453.d5e058b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2924c4fd.css",
-    "static/js/main.68693181.js"
+    "static/css/main.7521fea5.css",
+    "static/js/main.47bc717f.js"
   ]
 }
