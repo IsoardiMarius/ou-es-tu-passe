@@ -25,7 +25,7 @@ const LandingPage: React.FC = () => {
                     className="px-8 py-3 bg-blue-600 rounded-full text-lg font-semibold hover:bg-blue-700 transition"
                     whileHover={{scale: 1.1}}
                 >
-                    <a href="https://github.com/thierry-ronney/passé-passé" target="_blank" rel="noreferrer">
+                    <a href="https://www.facebook.com/profile.php?id=61565159578647" target="_blank" rel="noreferrer">
                         Commencez votre recherche
                     </a>
                 </motion.button>
@@ -74,7 +74,7 @@ const LandingPage: React.FC = () => {
                     className="px-8 py-3 bg-green-600 rounded-full text-lg font-semibold hover:bg-green-700 transition"
                     whileHover={{ scale: 1.1 }}
                 >
-                    <a href="https://github.com/thierry-ronney/passé-passé" target="_blank" rel="noreferrer">
+                    <a href="https://www.facebook.com/profile.php?id=61565159578647" target="_blank" rel="noreferrer">
                         Rejoignez-nous 🚀
                     </a>
                 </motion.button>
