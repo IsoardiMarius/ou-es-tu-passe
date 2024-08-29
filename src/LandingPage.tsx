@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import logo from './assets/mafia_bear-removebg-preview.png';
 
 const LandingPage: React.FC = () => {
     return (
@@ -11,7 +12,12 @@ const LandingPage: React.FC = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8 }}
                 >
-                    Où es-tu Passé ? 🔍
+                    {/*On va ajouter l'image du logo*/}
+                    <div>
+                        <div>Où es-tu Passé ?</div>
+                        <img src={logo} alt="Logo de l'application" className="w-1/2" />
+
+                    </div>
                 </motion.h1>
                 <motion.p
                     className="text-lg mb-8 max-w-xl mx-auto"
