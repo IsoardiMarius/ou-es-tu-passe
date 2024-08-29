@@ -13,9 +13,9 @@ const LandingPage: React.FC = () => {
                     transition={{ duration: 0.8 }}
                 >
                     {/*On va ajouter l'image du logo*/}
-                    <div className="flex flex-col items-center">
+                    <div className="flex items-center justify-center gap-3">
                         <div>Où es-tu Passé ?</div>
-                        <img src={logo} alt="Logo de l'application" className="w-[100px]" />
+                        <img src={logo} alt="Logo de l'application" className="w-[60px]" />
 
                     </div>
                 </motion.h1>
@@ -28,7 +28,7 @@ const LandingPage: React.FC = () => {
                     Retrouvez les personnes qui ont marqué votre vie, qu'il s'agisse d'amis perdus ou de comptes à régler.
                 </motion.p>
                 <motion.button
-                    className="px-8 py-3 bg-blue-600 rounded-full text-lg font-semibold hover:bg-blue-700 transition"
+                    className="px-8 py-3 bg-blue-700 rounded-full text-lg font-semibold hover:bg-blue-700 transition"
                     whileHover={{scale: 1.1}}
                 >
                     <a href="https://www.facebook.com/profile.php?id=61565159578647" target="_blank" rel="noreferrer">
@@ -77,7 +77,7 @@ const LandingPage: React.FC = () => {
 
             <footer className="mt-20 text-center">
                 <motion.button
-                    className="px-8 py-3 bg-green-600 rounded-full text-lg font-semibold hover:bg-green-700 transition"
+                    className="px-8 py-3 bg-orange-800 rounded-full text-lg font-semibold hover:bg-green-700 transition"
                     whileHover={{ scale: 1.1 }}
                 >
                     <a href="https://www.facebook.com/profile.php?id=61565159578647" target="_blank" rel="noreferrer">
