@@ -23,9 +23,11 @@ const LandingPage: React.FC = () => {
                 </motion.p>
                 <motion.button
                     className="px-8 py-3 bg-blue-600 rounded-full text-lg font-semibold hover:bg-blue-700 transition"
-                    whileHover={{ scale: 1.1 }}
+                    whileHover={{scale: 1.1}}
                 >
-                    Commencez votre recherche
+                    <a href="https://github.com/thierry-ronney/passé-passé" target="_blank" rel="noreferrer">
+                        Commencez votre recherche
+                    </a>
                 </motion.button>
             </header>
 
