@@ -72,7 +72,9 @@ const LandingPage: React.FC = () => {
                     className="px-8 py-3 bg-green-600 rounded-full text-lg font-semibold hover:bg-green-700 transition"
                     whileHover={{ scale: 1.1 }}
                 >
-                    Rejoignez-nous 🚀
+                    <a href="https://github.com/thierry-ronney/passé-passé" target="_blank" rel="noreferrer">
+                        Rejoignez-nous 🚀
+                    </a>
                 </motion.button>
             </footer>
         </div>
