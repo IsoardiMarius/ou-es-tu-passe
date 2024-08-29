@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ou-es-tu-passe/static/css/main.e6c13ad2.css",
+    "main.js": "/ou-es-tu-passe/static/js/main.b977f929.js",
+    "static/js/453.d5e058b4.chunk.js": "/ou-es-tu-passe/static/js/453.d5e058b4.chunk.js",
+    "index.html": "/ou-es-tu-passe/index.html",
+    "main.e6c13ad2.css.map": "/ou-es-tu-passe/static/css/main.e6c13ad2.css.map",
+    "main.b977f929.js.map": "/ou-es-tu-passe/static/js/main.b977f929.js.map",
+    "453.d5e058b4.chunk.js.map": "/ou-es-tu-passe/static/js/453.d5e058b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b977f929.js"
+  ]
+}
