@@ -13,9 +13,9 @@ const LandingPage: React.FC = () => {
                     transition={{ duration: 0.8 }}
                 >
                     {/*On va ajouter l'image du logo*/}
-                    <div>
+                    <div className="flex flex-col items-center">
                         <div>Où es-tu Passé ?</div>
-                        <img src={logo} alt="Logo de l'application" className="w-1/2" />
+                        <img src={logo} alt="Logo de l'application" className="w-[100px]" />
 
                     </div>
                 </motion.h1>
